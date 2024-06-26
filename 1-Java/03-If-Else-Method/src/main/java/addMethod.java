@@ -2,7 +2,9 @@ public class addMethod {
 
     public static void main(String[] args) {
         System.out.println("add: "+ add(3,4));
+        System.out.println("add: "+ add(3.5,4.5));
         System.out.println("subtract: "+ subtract(3,4));
+        System.out.println("subtract: "+ subtract(3.8,2.6));
         System.out.println("makePositive: "+ makePositive(3,4));
         System.out.println("isABigger: "+ isABigger(3,4));
         System.out.println("isABigger: "+ isABigger(4,2));
@@ -35,7 +37,7 @@ public class addMethod {
         } else {
             return add(a, b);
         }
-    };
+    }
 
     public static int oddNumberCheck(int number) {
         if (number % 2 == 0) {
@@ -43,7 +45,7 @@ public class addMethod {
         } else {
             return number * 2;
         }
-    };
+    }
 
     public static boolean isPalindrome(String text) {
         int left = 0;
