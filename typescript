@@ -1,0 +1,52 @@
+Script started on Mon Jul  1 12:28:25 2024
+[0m[49m[39m[27m[24m[K
+[1A7[0m[49m[39m]133;A[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/workspace/Java/neuefische/[1m[38;5;31m[38;5;39mchallenges[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m]133;B                                                                                         ]133;P;k=r[0m[49m[38;5;66m12:28:25[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[39m]133;B[0m[49m[39m[27m[24m[41C[?2004h[?25l8[0m[49m[39m[27m[24m[J
+[[33mWARNING[39m]: Console output during zsh initialization detected.
+
+When using Powerlevel10k with instant prompt, console output during zsh
+initialization may indicate issues.
+
+You can:
+
+  - [1mRecommended[0m: Change [1m~/.zshrc[0m so that it does not perform console I/O
+    after the instant prompt preamble. See the link below for details.
+
+    * You [1mwill not[0m see this error message again.
+    * Zsh will start [1mquickly[0m and prompt will update [1msmoothly[0m.
+
+  - Suppress this warning either by running [1mp10k configure[0m or by manually
+    defining the following parameter:
+
+      [33mtypeset[39m -g POWERLEVEL9K_INSTANT_PROMPT=quiet
+
+    * You [1mwill not[0m see this error message again.
+    * Zsh will start [1mquickly[0m but prompt will [1mjump down[0m after initialization.
+
+  - Disable instant prompt either by running [1mp10k configure[0m or by manually
+    defining the following parameter:
+
+      [33mtypeset[39m -g POWERLEVEL9K_INSTANT_PROMPT=off
+
+    * You [1mwill not[0m see this error message again.
+    * Zsh will start [1mslowly[0m.
+
+  - Do nothing.
+
+    * You [1mwill[0m see this error message every time you start zsh.
+    * Zsh will start [1mquickly[0m but prompt will [1mjump down[0m after initialization.
+
+For details, see:
+]8;;https://github.com/romkatv/powerlevel10k/blob/master/README.md#instant-prompthttps://github.com/romkatv/powerlevel10k/blob/master/README.md#instant-prompt]8;;
+
+[33m-- console output produced during zsh initialization follows --[39m
+
+]1337;RemoteHost=fabian@MacBook-Pro-von-Fabian-4.local]1337;CurrentDir=/Users/fabian/workspace/Java/neuefische/challenges]1337;ShellIntegrationVersion=14;shell=zsh/Users/fabian/.zshrc:55: command not found: 1-Java
+]133;D;127]1337;RemoteHost=fabian@MacBook-Pro-von-Fabian-4.local]1337;CurrentDir=/Users/fabian/workspace/Java/neuefische/challenges]2;fabian@MacBook-Pro-von-Fabian-4:~/workspace/Java/neuefische/challenges]1;..he/challenges]7;file://MacBook-Pro-von-Fabian-4.local/Users/fabian/workspace/Java/neuefische/challenges\[0m[38;5;31m[49m[39m[27m[24m[1m[7m%[27m[1m[0m                                                                                                                                          [0m[49m[39m[27m[24m[K[0m[27m[24m[J[0m[49m[39m]133;A[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/workspace/Java/neuefische/[1m[38;5;31m[38;5;39mchallenges[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m[38;5;76m[38;5;76mmain [38;5;39m?5[0m[38;5;39m[49m[38;5;76m[0m[38;5;76m[49m [0m[38;5;76m[49m[38;5;196m❯[0m[38;5;196m[49m[38;5;196m[0m[38;5;196m[49m[30m[0m[30m[49m[39m [0m[49m[39m]133;B[K[81C]133;P;k=r[0m[49m[38;5;66m12:28:25[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[39m]133;B[89D[?1h=[?25h[?2004h[1m[31mb[0m[39m[1m[31mb[1m[31ma[0m[39m[1m[31mb[1m[31ma[1m[31ms[0m[39m[0m[32mb[0m[32ma[0m[32ms[32mh[39m [4ms[24m[4ms[4mc[24m[4mc[4mript.sh[24m[1m [0m[0m [?1l>[?2004l
+]133;C;]2;bash script.sh]1;bashmkdir: my-shell-folder: File exists
+Hello World
+Hello World
+my-shell-file.txt
+[1m[7m%[27m[1m[0m                                                                                                                                           ]133;D;0]1337;RemoteHost=fabian@MacBook-Pro-von-Fabian-4.local]1337;CurrentDir=/Users/fabian/workspace/Java/neuefische/challenges]2;fabian@MacBook-Pro-von-Fabian-4:~/workspace/Java/neuefische/challenges]1;..he/challenges]7;file://MacBook-Pro-von-Fabian-4.local/Users/fabian/workspace/Java/neuefische/challenges\[0m[27m[24m[J[0m[49m[39m]133;A[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/workspace/Java/neuefische/[1m[38;5;31m[38;5;39mchallenges[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m[38;5;76m[38;5;76mmain [38;5;39m?4[0m[38;5;39m[49m[38;5;76m[0m[38;5;76m[49m [0m[38;5;76m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m]133;B[K[81C]133;P;k=r[0m[49m[38;5;66m12:29:28[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[39m]133;B[89D[?1h=[?2004h[32mbash[39m [4mscript.sh[24m[?1l>[?2004l
+]133;C;]2;bash script.sh]1;bashHello World
+my-shell-file.txt
+[1m[7m%[27m[1m[0m                                                                                                                                           ]133;D;0]1337;RemoteHost=fabian@MacBook-Pro-von-Fabian-4.local]1337;CurrentDir=/Users/fabian/workspace/Java/neuefische/challenges]2;fabian@MacBook-Pro-von-Fabian-4:~/workspace/Java/neuefische/challenges]1;..he/challenges]7;file://MacBook-Pro-von-Fabian-4.local/Users/fabian/workspace/Java/neuefische/challenges\[0m[27m[24m[J[0m[49m[39m]133;A[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/workspace/Java/neuefische/[1m[38;5;31m[38;5;39mchallenges[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m[38;5;76m[38;5;76mmain [38;5;39m?4[0m[38;5;39m[49m[38;5;76m[0m[38;5;76m[49m [0m[38;5;76m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m]133;B[K[81C]133;P;k=r[0m[49m[38;5;66m12:30:08[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[39m]133;B[89D[?1h=[?2004h
